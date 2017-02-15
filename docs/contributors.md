@@ -15,9 +15,9 @@ Here are the list of amazing Mozilla contributors from our club.
 <div class="contributors">
 
 <div class="pic" style="height: 130px; width: 130px">
-<img src="{{ contributor.photo }}"></div><br>
-<p class="name">Name: {{ contributor.name }}</p>
-<p class="contribution">Contribution Area: {{ contributor.contribution }}</p>
+<img src="https://www.gravatar.com/avatar/bc550139be48cb8ce92c0d4933f73b9c?s=256"></div><br>
+<p class="name">Name: Lokeshwaran.A</p>
+<p class="contribution">Contribution Area: Webvr</p>
 	
 
 </div>

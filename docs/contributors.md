@@ -27,7 +27,7 @@ Here are the list of amazing Mozilla contributors from our club.
 </div>
 
 <div class="pic" style="height: 130px; width: 130px">
-<img src="https://www.gravatar.com/avatar/bc550139be48cb8ce92c0d4933f73b9c?s=256"></div><br>
+<img src="https://www.gravatar.com/avatar/479088660d4d1f7057b382bd5cd47930?s=256"></div><br>
 <p class="name">Name: Manoj Kumar TL</p>
 <p class="contribution">Contribution Area: Addons</p>
 </div>

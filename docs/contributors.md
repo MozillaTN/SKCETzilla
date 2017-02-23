@@ -49,6 +49,9 @@ Here are the list of amazing Mozilla contributors from our club.
 <p class="name">Name: Aishwarya</p>
 <p class="contribution">Contribution Area: Addons</p>
 </div>
-
+</div>
 
 {% endfor %}
+</div>
+
+

@@ -1,25 +1,42 @@
 
--   name: Ashly Rose Mathew.M
-    twitter: ashlirosemathew
-    description: added contributor
-    photo: "http://s.gravatar.com/avatar/d308351f4d397bc2ada19f116c71e499?s=80"
-    contribution: WebExtension
-
 -   name: Prasanth P
     twitter: prasanthp96
     description: QA contributor
     photo: "https://secure.gravatar.com/avatar/f6678ef891e273d2dd363b5b33fe8a98"
     contribution: QA
 
--   name: Nagaraj V
-    twitter: nagarajnaidu921
-    description: Contributor
-    photo: "https://s.gravatar.com/avatar/ec27e7511d4c42e401787c483faeba7a"
-    contribution: WebCompat
+-   name: lokeshwaran A
+    twitter: lokeshwaran36
+    description: Webvr contributor
+    photo: "https://www.gravatar.com/avatar/bc550139be48cb8ce92c0d4933f73b9c?s=256"
+    contribution: webvr
 
--   name: Surentharan R.A
-    twitter: surentharan7
-    description: Contributor
-    photo: "https://secure.gravatar.com/avatar/285ed40aea324821f3b0ebebf8075629"
-    contribution: WebCompat
+-   name: Manoj Anbarasu A
+    twitter: Manojsmart55
+    description: addons contributor
+    photo: "https://www.gravatar.com/avatar/0c6da4e7561892c76dede30c81529318?s=256"
+    contribution: addons
 
+-   name: Manoj Kumar TL
+    twitter: Mano777777
+    description: rust contributor
+    photo: "https://www.gravatar.com/avatar/479088660d4d1f7057b382bd5cd47930?s=256"
+    contribution: rust
+    
+-   name: TharunKumar.K
+    twitter: tharun1144
+    description: webcompat Contributor
+    photo: "http://s.gravatar.com/avatar/987a838f909beade7698055957ee1989?s=80"
+    contribution: web compat
+
+-   name: Balaji Venkatesan
+    twitter: balajivlpkcb006
+    description: web compat Contributor
+    photo: "https://www.gravatar.com/avatar/3842030b52ad944617fcb860dba85e33?s=250"
+    contribution: web compat
+    
+-   name: Aishwarya
+    twitter: aishwarya
+    description: Addons Contributor
+    photo: "https://www.gravatar.com/avatar/291137b1b699da5e3e36e616d2f4c234?s=290"
+    contribution: addons

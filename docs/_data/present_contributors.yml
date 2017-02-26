@@ -23,19 +23,19 @@
     photo: "https://www.gravatar.com/avatar/479088660d4d1f7057b382bd5cd47930?s=256"
     Contribution: rust
 
-    name: TharunKumar.K
+-   name: TharunKumar.K
     twitter: tharun1144
     description : webcompat Contributor
     photo: "http://s.gravatar.com/avatar/987a838f909beade7698055957ee1989?s=80"
     Contribution: web compat
     
-    name: Balaji Venkatesan
+-   name: Balaji Venkatesan
     twitter: balajivlpkcb006
     description : web compat Contributor
     photo: "https://www.gravatar.com/avatar/3842030b52ad944617fcb860dba85e33?s=250"
     Contribution: web compat
      
-    name: Aishwarya
+ -  name: Aishwarya
     twitter: aishwarya
     description : Addons Contributor
     photo: "https://www.gravatar.com/avatar/291137b1b699da5e3e36e616d2f4c234?s=290"

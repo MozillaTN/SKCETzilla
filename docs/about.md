@@ -1,12 +1,12 @@
 ---
 layout: page
 navigation_title: About
-title: About MozillaTN ClubName
+title: SKCETZILLA
 permalink: /about/
 cover: 'https://mozillatn.github.io/clubs/assets/mozilla-tn-bannerc.png'
 ---
 
-Mozilla Tamilnadu is a volunteer community functioning under Mozilla India.
+SKCETZILLA is a volunteer community functioning under Mozilla India.
 
 We believe in keeping the power of web in people’s hands. We envision a world where web is **free and fair**.
 
